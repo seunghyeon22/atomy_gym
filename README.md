@@ -23,9 +23,6 @@
 
 ![image](https://github.com/user-attachments/assets/be111d3f-d1db-488a-868c-cab1ec2a76a2)
 
-**내가 담당한 Class** 
-![image](https://github.com/user-attachments/assets/31156d25-318c-422b-b9f5-bec8ea5fcc76)
-
 
 
 ## Program System 
@@ -68,11 +65,6 @@
   
 </div>
 
-## Introduce Team 
-- [송승현](https://github.com/seunghyeon22)
-- [박주용](https://github.com/cfyle)
-
-
 
 
 ## How To Use / Development setup
@@ -111,24 +103,9 @@
 
 *   [x] Trainer
 *   [x] PT
-*   [ ] Member
-*   [ ] MemberShip
-*   [ ] Attend
+*   [x] Member
+*   [x] MemberShip
+*   [x] Attend
 
     
-
-    
-## Authors
-
-
-> 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요
->
-> [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
->
-> [Profile generator](https://gprm.itsvg.in/)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SYacuCLoud)](https://github.com/SYacuCLoud)
-
-
-
 
