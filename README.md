@@ -16,19 +16,22 @@
 
 -   ATOMY(분자) + GYM(헬스장) : 분자 단위처럼 세세하게 헬스장 회원관리 목적 
 
-## Role
-
-![image](https://github.com/user-attachments/assets/be111d3f-d1db-488a-868c-cab1ec2a76a2)
-
-
 
 ## Key Features
 
+**기능 구성**
 
+<img src = "https://github.com/user-attachments/assets/ffeb6968-7e69-4c99-9155-75d027c23e5f"  width="700" height="400"/>
 
 **테이블 구성**
 
 <img src = "https://github.com/user-attachments/assets/0d61b43c-73ca-4aea-8fd4-69529e8c5619">
+
+
+
+
+
+## 주요 기능
 
 **회원 관리**
 
@@ -64,12 +67,6 @@
   
 </div>
 
-
-
-
-**PPT**
-- 웹페이지 구상, 방향성 설정 
-<img src = "https://github.com/user-attachments/assets/ffeb6968-7e69-4c99-9155-75d027c23e5f"  width="700" height="400"/>
 
 
 
