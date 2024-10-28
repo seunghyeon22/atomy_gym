@@ -17,15 +17,19 @@
 -   ATOMY(분자) + GYM(헬스장) : 분자 단위처럼 세세하게 헬스장 회원관리 목적 
 
 ## Role
-![image](https://github.com/user-attachments/assets/37847bdb-de58-40ad-9911-f3519dc5dfd4)
-
-<br>
 
 ![image](https://github.com/user-attachments/assets/be111d3f-d1db-488a-868c-cab1ec2a76a2)
 
 
 
-## Program System 
+## Key Features
+
+
+**테이블 구성**
+<img src = "https://github.com/user-attachments/assets/0d61b43c-73ca-4aea-8fd4-69529e8c5619">
+<img src = "https://github.com/user-attachments/assets/e280f828-b752-48e9-8e50-b1cf5ba4df13">
+
+
 **회원 관리**
 
 <img src = "https://github.com/user-attachments/assets/4ba7c27f-54f2-45e2-ab3f-8db9d26ec59f" width ="700" height ="300"/>
@@ -57,11 +61,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <br>
  
- **Enviroment**
-
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
- 
-  
   
 </div>
 
@@ -78,14 +77,9 @@
   6. JDBC 작성 및 실시간 입출력 테스트
 
 
-- ERD 작성
-<img src = "https://github.com/user-attachments/assets/0d61b43c-73ca-4aea-8fd4-69529e8c5619">
-
-
 **SpreadSheet**
 - 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
 
-<img src = "https://github.com/user-attachments/assets/e280f828-b752-48e9-8e50-b1cf5ba4df13">
 
 
 
