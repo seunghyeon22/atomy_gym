@@ -25,10 +25,10 @@
 ## Key Features
 
 
-**테이블 구성**
-<img src = "https://github.com/user-attachments/assets/0d61b43c-73ca-4aea-8fd4-69529e8c5619">
-<img src = "https://github.com/user-attachments/assets/e280f828-b752-48e9-8e50-b1cf5ba4df13">
 
+**테이블 구성**
+
+<img src = "https://github.com/user-attachments/assets/0d61b43c-73ca-4aea-8fd4-69529e8c5619">
 
 **회원 관리**
 
@@ -63,23 +63,6 @@
  
   
 </div>
-
-
-
-## How To Use / Development setup
-
-**DataBase** 
-  1. 데이터베이스 서버 구축
-　2. 권한 설정 
-  3. 테이블 정의 : 기본키(Pk), 외래키(Fk), 널 허용 여부(Null/Not Null), 자동 증가(Auto Increment)설정을 포함한 테이블 정의.
-  4. 테이블 생성 : Trainer, Member, Attend 등 주요 테이블 생성 
-  5. ERD 활용   : 엔터티-관계 다이어그램을 기반으로 테이블 간의 외래키 관계를 검증하여 데이터베이스의 무결성 유지 
-  6. JDBC 작성 및 실시간 입출력 테스트
-
-
-**SpreadSheet**
-- 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
-
 
 
 
